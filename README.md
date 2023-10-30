@@ -11,4 +11,4 @@ These Exceptions contain the return value and therefore support Polymorphism, as
 ## But what about Exceptions?
 A good question! Instead of throwing exceptions, we use return statements to signal a failure!
 
-See an example in the example folder.
+See an example in App.java
